@@ -1,0 +1,2 @@
+# Comparison-of-Volatility-and-VaR-for-Saudi-Aramco-and-Microsoft
+This project performs a comparative analysis of volatility and Value at Risk (VaR) for Saudi Aramco and Microsoft. It uses Python to download historical stock data, calculate daily returns, and compute 30-day rolling volatility and VaR at a 95% confidence level. Visualizations include bar charts comparing the metrics for both companies.
